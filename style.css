@@ -1,0 +1,287 @@
+.toprow{
+    background-color: white;
+    /* padding: 2px; */
+    margin-top:0px ;
+    border: 1px solid black;
+    /* position: fixed; */
+
+    
+}
+.img{
+    width: 70px;
+}
+.button{
+    background-color:white;
+    border: none;
+    font-size: x-large;
+    padding:30px;
+    flex-direction: row;
+    cursor: pointer;
+    float: left;
+}
+.button2{
+    position:relative;
+    padding: 20px;
+    float: right;
+    /* display:inline-block; */
+    cursor: pointer;
+    
+}
+.button3{
+    font-size: medium;
+    background-color:rgb(25, 23, 23);
+    padding:10px 25px 10px   ;
+    border: none;
+    cursor: pointer;
+}
+.btn{
+    background-color: white;
+}
+.upgrade{
+    background-color: rgb(218, 43, 218);
+    border-radius: 30px;
+    border: none;
+    font-size: x-large;
+    padding: 10px;
+   
+}
+.getcertified{
+    background-color: lightpink;
+    border-radius: 30px;
+    border: none;
+    font-size: x-large;
+    padding: 10px;
+   
+}
+    .createwebsite{
+    background-color:rgb(248, 248, 125);
+    border-radius: 30px;
+    border: none;
+    font-size: x-large;
+    padding: 10px;
+   
+}
+.buttongroup{
+    background-color: lightgray;
+    border-radius: 50px;
+    color: white;
+    padding: 2px;
+    margin-top: 15px;
+    float: right;
+    border-spacing:none;
+
+
+}
+.login{
+    background-color:lightgrey;
+    border-radius: 30px;
+    border: none;
+    font-size: x-large;
+    padding: 10px;
+       
+}
+.Signup{
+    background-color:rgb(0, 174, 86);
+    border-radius: 30px;
+    border: none;
+    font-size: x-large;
+    padding: 10px;
+}
+.drop{
+    position:static;
+    display:inline-block;
+   
+}
+.drop-content{
+    display:none;
+    position:absolute;
+    background-color: white;
+    padding: 10px;
+    font-size: larger;
+    
+  
+
+}
+.drop-content a{
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+.row2{
+    padding: 3px;
+    font-size: smaller;
+    background-color: rgb(25, 23, 23);
+    /* position: fixed; */
+    /* margin-top: 75px; */
+    
+}
+.col1{
+    width: 150px;
+    height: 600px;
+    background-color:whitesmoke;
+    overflow:scroll;
+}
+.col2{
+    width: 50%;
+    background-color: aqua;
+}
+.main{
+    background-color:rgb(49, 46, 46);
+    width: 100%;
+    position:static;
+    padding: 1px; 
+    /* margin-top: 125px; */
+
+    
+    
+}
+.h1{
+    margin-top: 190px;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.h2{
+    
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.search{
+    border-radius: 30px;
+    width: 700px;
+    font-size: 30px;
+    background-color: lightgrey;
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+    font-family: Arial, Helvetica, sans-serif;
+}
+.h5{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 10%;
+}
+.html{
+    background-color: rgb(210, 238, 210);
+    padding: 2px ;
+}
+.css{
+    background-color: rgb(230, 230, 123);
+    padding: 2px;
+}
+.javascript{
+    background-color: rgb(62, 62, 55);
+    padding: 2px;
+}
+.python{
+    background-color: white;
+    padding: 2px; 
+}
+.sql{
+    background-color: rgb(142, 239, 239);
+    padding: 2px; 
+}
+.tab1{
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+    width: 700px;  
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.tab2{
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+    width: 700px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.tab3{
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+    width: 700px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.tab4{
+    margin-top:50px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+    width: 700px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.tab5{
+    margin-top:50px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+    width: 700px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.h3{
+    
+    font-size:50px;
+}
+.h4{
+    font-size: 30px;
+}
+.htmltext{
+    width:200px;
+    padding: 5px;
+    
+}
+.btn1{
+    background-color: rgb(41, 157, 28);
+    border-radius: 30px;
+    width: 300px;
+    font-size: 20px;
+    border: none;
+    padding: 10px;
+    margin-bottom:15px ;
+}
+.btn2{
+    background-color:rgb(245, 245, 102);
+    border-radius: 30px;
+    width:300px;
+    font-size: 20px;
+    border: none;
+    padding: 10px;
+    margin-bottom:15px ;
+}
+.btn3{
+    background-color:rgb(39, 36, 36);
+    border-radius: 30px;
+    width:300px;
+    font-size: 20px;
+    border: none;
+    padding: 10px;
+    margin-bottom:15px ;
+    
+}
+.btn4{
+    background-color:lightpink;
+    border-radius: 30px;
+    width: 300px;
+    font-size: 20px;
+    border: none;
+    padding: 10px;
+    margin-bottom:15px ;
+}
+.main2{
+    back
+}
+.drop-content a:hover {background-color: #ddd;}
+.drop:hover .drop-content {display: block;}
+.drop:hover .button {background-color:rgb(50, 217, 50);}
+.login:hover
+{background-color: rgb(71, 218, 71); }
+.button3:hover{
+    background-color:grey;
+}
+ 
